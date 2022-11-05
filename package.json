@@ -1,5 +1,5 @@
 {
-  "name": "binary-search",
+  "name": "@azizka/binary-search",
   "version": "1.0.0",
   "description": "Binary search of an array of numbers",
   "main": "index.js",
