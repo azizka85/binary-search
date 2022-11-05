@@ -10,9 +10,18 @@
     "JavaScript",
     "Binary Search"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azizka85/binary-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azizka85/binary-search/issues"
+  },
+  "homepage": "https://github.com/azizka85/binary-search",
   "author": "Aziz Kudaikulov",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^29.2.2",
     "jest": "^29.2.2"
   }
 }
